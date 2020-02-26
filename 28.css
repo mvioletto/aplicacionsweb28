@@ -1,0 +1,13 @@
+table{
+	width: 215px;
+	height: 215px;
+	border: 1px black;
+}
+
+table tr td:first-of-type{
+	background-color: red;
+}
+
+table tr td:last-of-type{
+background-color: yellow;
+}
